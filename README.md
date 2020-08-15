@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on #1 Software Company in India
+- 🔭 I’m working on #1 Software Company in India
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

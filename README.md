@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I am a Java programmer but am also keen to learn other languages and technologies. 
+## 🔭 I am a Java programmer also I am keen to learn new technologies. 
 🌱 I enjoy challenges of solving complex problems and will ultimately try my best to fulfil the role of the team. 
 
 

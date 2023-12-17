@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ` 😄 Premraj Malkajgiri` |  `🌱 Hyderabd, India` | <a href="https://www.linkedin.com/in/premraj10/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/premraj10/`
 
-mst
+mst:1
 ng
 dh
 pr
